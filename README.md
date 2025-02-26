@@ -1,6 +1,6 @@
 # AYUSH SHAH #
 
-# Happy MahaShivratri 
+#  🔱📿HAPPY MAHASHIVRATRI 🔱📿
 
 This is a simple web project celebrating MahaShivratri, built using HTML and CSS.
 
